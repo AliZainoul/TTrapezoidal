@@ -1,3 +1,5 @@
+### Template Version of Trapezoidal Rule
+
 ## To Compile Ex 1:
 
 # Ex 1 Part 1 :
